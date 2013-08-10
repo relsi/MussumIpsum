@@ -1,0 +1,34 @@
+[
+
+  {
+    "caption": "MussumIpsum: 1 Paragrifis.",
+    "command": "mussum_ipsum",
+    "args": {"quantis": 1 }
+  },
+  {
+    "caption": "MussumIpsum: 2 Paragrifis.",
+    "command": "mussum_ipsum",
+    "args": {"quantis": 2 }
+  },
+  {
+    "caption": "MussumIpsum: 3 Paragrifis.",
+    "command": "mussum_ipsum",
+    "args": {"quantis": 3 }
+  },
+  {
+    "caption": "MussumIpsum: 4 Paragrifis.",
+    "command": "mussum_ipsum",
+    "args": {"quantis": 4 }
+  },
+  {
+    "caption": "MussumIpsum: 5 Paragrifis.",
+    "command": "mussum_ipsum",
+    "args": {"quantis": 5 }
+  },
+  {
+    "caption": "MussumIpsum: 6 Paragrifis.",
+    "command": "mussum_ipsum",
+    "args": {"quantis": 6 }
+  }
+
+]

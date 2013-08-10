@@ -1,4 +1,22 @@
 MussumIpsum
 ===========
 
-Plugin para geração de parágrafos MussumIpsum para Sublime Text!
+Plugin gerador de MussumIpsum para Sublime Text!
+
+### Como Instalar
+ - Clique no Menu `Preferences -> Package Control`.  
+ - Clique na opção `Add Reposiory`.  
+ - Insira o repositório `https://github.com/relsi/MussumIpsum` e pressiona a tecla `ENTER`.  
+ - Clique novamente no Menu `Preferences -> Package Control`.   
+ - Clique na opção `Install Package`.  
+ - Digite `Mussum` na caixa de pesquisa, selecione o pacote e aguarde a instalação.  
+
+### Como usuar
+Selecionis as quantidadis de textis que queris inseriris atravésis do menusis: `Edit->Text->Mussum Ipsum`  
+Ou clicandis com o botãozis direitis do mousis na opçãoziz `Mussum Ipsum`.  
+
+### Deu probremis cacildis?
+Abra uma issuézis!
+
+###Agradecimentis
+Billymoon: https://github.com/billymoon/LoremIpsum    
