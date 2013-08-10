@@ -14,6 +14,8 @@ Plugin gerador de MussumIpsum para Sublime Text!
 ### Como usuar
 Selecionis as quantidadis de textis que queris inseriris atravésis do menusis: `Edit->Text->Mussum Ipsum`  
 Ou clicandis com o botãozis direitis do mousis na opçãoziz `Mussum Ipsum`.  
+Ou apertando as téclis de atalhis `ctr+alt+m` no Linuquizis  
+Ou apertando as téclis de atalhis `ctr+alt+m` no Windis (não foi testadis)
 
 ### Deu probremis cacildis?
 Abra uma issuézis!

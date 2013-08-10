@@ -1,0 +1,27 @@
+[
+    {
+        "id":"edit",
+        "children":
+        [
+            {
+                "id":"text",
+                "children":
+                [
+                    {
+                        "caption":"Mussum Ipsum...",
+                        "mnemonic": "MI",
+                        "children":
+                        [
+                            {"command": "mussum_ipsum", "caption": "1 paragrifis", "args":{"quantis":1}},
+                            {"command": "mussum_ipsum", "caption": "2 paragrifis", "args":{"quantis":2}},
+                            {"command": "mussum_ipsum", "caption": "3 paragrifis", "args":{"quantis":3}},
+                            {"command": "mussum_ipsum", "caption": "4 paragrifis", "args":{"quantis":4}},
+                            {"command": "mussum_ipsum", "caption": "5 paragrifis", "args":{"quantis":5}},
+                            {"command": "mussum_ipsum", "caption": "6 paragrifis", "args":{"quantis":6}}
+                        ]    
+                    }
+                ]
+            }
+        ]
+    }
+]
