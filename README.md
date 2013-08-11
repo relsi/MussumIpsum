@@ -11,6 +11,16 @@ Plugin gerador de MussumIpsum para Sublime Text!
  - Clique na opção `Install Package`.  
  - Digite `Mussum` na caixa de pesquisa, selecione o pacote e aguarde a instalação.  
 
+Se não tiver o `Package Control` no menusis, tem que intalazis:  
+https://sublime.wbond.net/  
+
+Se tu não gosta de menuzis, só de terminauzis, intala na mãozis mesmis:
+
+`cd /home/tu-usuaris-aquizis/.config/sublime-text-2/Packages`  
+`git clone https://github.com/relsi/MussumIpsum`  
+
+(Mas vai ter que ficar atualizando na mãozis também depois, cacildis!)
+
 ### Como usar
 Selecionis as quantidadis de textis que queris inseriris atravésis do menusis: `Edit->Text->Mussum Ipsum`  
 Ou clicandis com o botãozis direitis do mousis na opçãoziz `Mussum Ipsum`.  
