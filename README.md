@@ -1,7 +1,8 @@
 MussumIpsum
 ===========
 
-Plugin gerador de MussumIpsum para Sublime Text!
+Plugin gerador de MussumIpsum para Sublime Text!  
+http://mussumipsum.com/
 
 ### Como usar
 Selecionis as quantidadis de textis que queris inseriris atravésis do menusis: `Edit->Text->Mussum Ipsum`  
