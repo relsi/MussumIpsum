@@ -16,7 +16,7 @@ class MussumIpsumCommand(sublime_plugin.TextCommand):
 			]
 			textis = " "
 			for i in range(0,quantis):
-				textis += inseris[i] + "\n\n "
+				textis += inseris[i] + "\n\n"
 
 			biritis = self.view.begin_edit()
 			self.view.erase(biritis, martelis)
